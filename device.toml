@@ -1,0 +1,6 @@
+[device]
+name = "emerald"
+bypass = "override"
+
+[image]
+path = "binaries/lk.img"
